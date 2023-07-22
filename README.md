@@ -62,6 +62,8 @@ RESULT ---
 ![Screenshot_2023-07-22_08_28_21](https://github.com/Aniruddhpathak404/SubScanX/assets/101852962/8585a66c-a390-4882-b501-d6c03f72dd9c)
 
 
+Your feedback and suggestions are incredibly valuable to us. We are committed to making SubScanX even better, and your insights will play a crucial role in shaping its future development.
+
 
 
 
