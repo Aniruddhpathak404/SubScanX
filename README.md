@@ -52,7 +52,6 @@ FOR COMMAND VERSION--
 
 
 FOR GUI VERSION-- 
-![sample1](https://github.com/Aniruddhpathak404/SubScanX/assets/101852962/31484982-2063-49ae-91d0-0894f058f112)
 
 ![sample](https://github.com/Aniruddhpathak404/SubScanX/assets/101852962/20031a70-203d-433d-a391-e7632a73bc60)
 
