@@ -40,3 +40,24 @@ SubScanX is an open-source project that welcomes contributions from the communit
 **Note:** SubScanX is intended for ethical and authorized use only. Ensure that you have proper permission to scan the target subdomains.
 
 Empower yourself with SubScanX to streamline your subdomain scanning process, access detailed HTML reports, and make informed decisions to bolster your web application's security. Happy scanning!
+
+
+
+
+#Output 
+
+FOR COMMAND VERSION--
+
+![sample](https://github.com/Aniruddhpathak404/SubScanX/assets/101852962/5bcbcb86-1cd7-4dd2-8383-e917c736e275)
+
+
+FOR GUI VERSION-- 
+![sample1](https://github.com/Aniruddhpathak404/SubScanX/assets/101852962/31484982-2063-49ae-91d0-0894f058f112)
+
+![sample](https://github.com/Aniruddhpathak404/SubScanX/assets/101852962/20031a70-203d-433d-a391-e7632a73bc60)
+
+
+
+
+
+
